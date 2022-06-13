@@ -13,3 +13,6 @@ packages/nextra-theme-*/style.css
 */**/public/*.toml
 
 .vercel
+
+/.idea
+pnpm-lock.yaml
